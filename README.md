@@ -7,7 +7,10 @@ This repository contains materials and code related to deeplearning.ai course wi
   - [ReAct Documentation](https://react-lm.github.io/).
 
 - **Part 2: LangGraph Components**
-  - This section covers the LangGraph components ...
+  - This section introduces the core components of LangGraph and demonstrates their application using a [TavilySearchResults API](https://app.tavily.com/) as search tool.
+
+- **Part 3: Agentic Search Tools
+  - This section
 
 ## Installation
 

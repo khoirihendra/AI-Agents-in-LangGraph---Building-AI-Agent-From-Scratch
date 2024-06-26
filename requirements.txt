@@ -1,3 +1,7 @@
 openai
 httpx
 python-dotenv
+langgraph
+langchain_openai
+langchain_community
+ipython
