@@ -1,4 +1,4 @@
-# DeeplearningAI_AI-Agents-in-LangGraph_Building-agent-from-scratch
+# Building AI Agent From Scratch
 
 This is part of deeplearning.ai course with title "AI Agents in LangGraph"
 Source: deeplearning.ai
