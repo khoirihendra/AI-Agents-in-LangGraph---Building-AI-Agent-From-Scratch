@@ -1,6 +1,6 @@
 # AI Agents in LangGraph
 
-This is part of deeplearning.ai course with title "AI Agents in LangGraph"
+This repository contains materials and code related to deeplearning.ai course with title "AI Agents in LangGraph"
 
 - **Part 1: Building Agents from Scratch**
   - This section introduces how to build agent using ReAct design pattern with python and openAI API.
